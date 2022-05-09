@@ -38,6 +38,7 @@ class VetTests {
 		//new test
 		assertThat(other.getId()).isEqualTo(1);
 		assertThat(other.getId()).isEqualTo(2);
+		assertThat(other.getId()).isEqualTo(3);
 	}
 
 }
